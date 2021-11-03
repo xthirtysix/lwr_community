@@ -1,0 +1,23 @@
+{
+  "orgName": "Scratch org for VRP Skill Matrix Project",
+  "edition": "Developer",
+  "language": "en_US",
+  "features": [
+    "Communities",
+    "MultiCurrency"
+  ],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "accountSettings": {
+      "enableContactHistoryTracking": true
+    }
+  }
+}
